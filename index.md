@@ -15,7 +15,7 @@ Favorite Hobbies:
 - Play Basketball
 - Play Saxophone
 - Ride My Bike
----
+
 |US President|Presidential Term|
 |--|--|
 |Bush|2001-2009|
@@ -23,5 +23,9 @@ Favorite Hobbies:
 |Trump|2017-2021|
 |Biden|2021-Present|
 
----
+
 ![Image](https://static3.srcdn.com/wordpress/wp-content/uploads/2021/09/Marvel-Studios-logo-2021.png)
+
+[Lab Report 1](https://ucsd-cse15l-w22.github.io/week/week2/#week-2-lab-report)
+
+[My Github Pages Website](https://spadmanaban25.github.io/cse-15l-lab-report/)
