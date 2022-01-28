@@ -29,3 +29,4 @@ Favorite Hobbies:
 [Lab Report 1](https://ucsd-cse15l-w22.github.io/week/week2/#week-2-lab-report)
 
 [My Github Pages Website](https://spadmanaban25.github.io/cse-15l-lab-report/)
+
